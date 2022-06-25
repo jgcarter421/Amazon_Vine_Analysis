@@ -7,7 +7,7 @@ Per Amazon's website, "Amazon Vine invites the most trusted reviewers on Amazon 
 
 This analysis looks into whether the Vine members have a bias towards 5-Star ratings in their reviews.
 
-This analysis ustilized ETL (Extract, Transform, Load) to import the data from Amazon servers, transform the data, and load the data into DataFrames.
+This analysis ustilized ETL (Extract, Transform, Load) to import the data from Amazon servers, transform the data, and load the data into DataFrames.  The analysis analyzes the Amazon "Outdoors" Reviews dataset.
 
 ## Results
 
