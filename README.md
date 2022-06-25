@@ -29,3 +29,5 @@ Out of the nearly 40,000 reviews in the Amazon "Outdoors" dataset, there were on
 However, when we look at the Unpaid (Non-Vine) reviews, there were 39869 **unpaid** reviews.  Of those, there were **21005** unpaid 5-Star reviews.  This actually gives us percentage of 53 % of unpaid 5-Star Reviews.  Based on these percentages, the 5-Star reviews from Vine reviewers is relatively the same percentage of 5-Star reviews from Non-Vine reviewers.
 
 In conclusion, the data shows that there is not an implicit bias towards 5-Star reviews from Vine reviewers in the Amazon "Outdoors" dataset.  One could conclude that there is a tendency for all reviewers to give a 5-Star towards their reviews.  
+
+An additional analysis to support this conclusion would be to analyze the statistical distribution of star ratings for Vine members versus non-Vine members.
